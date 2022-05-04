@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+}
+
+/*Header for main page*/
+.mainhead h1{
+    text-align: center;
+    color: aquamarine;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 80px;
+}
+
+/*Links for recipes, main page*/
+.links a{
+    color: aquamarine;
+    font-size: 20px;
+}
+
+/*Container for links*/
+.links{
+    text-align: center;
+}
+
+.chickenheader h1{
+    font-size: 50px;
+    color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.chickenpic img{
+    display: block;
+    margin: auto;
+    height: auto;
+    width: 500px;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.blacktop img{
+    height: auto;
+    width: 500px;
+}
